@@ -45,4 +45,6 @@ group :development do
   gem 'spring'
 end
 
-gem 'carrierwave', '= 0.6.2'
+gem 'carrierwave'
+gem 'fog'
+gem 'dotenv-rails'
